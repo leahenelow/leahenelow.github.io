@@ -1,0 +1,37 @@
+*	{
+	padding: 0;
+	margin: 0;
+}
+
+
+body  {
+	font-size: 20px;
+	color: #09136B;
+	font-family: Candara, sans-serif;
+}
+
+
+#slogan	 {
+	font-style: italic
+	font-size: 20px;
+	color: #5D6066;
+}
+
+
+header {
+	text-align: center;
+	font-size: 40px;
+	background-color: #7CC6FF;
+}
+
+
+ul {
+	font-weight: 700;
+	padding-left: 20px;
+}
+
+
+a  {
+	text-decoration: none;
+	color: #000000;
+}
