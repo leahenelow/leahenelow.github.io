@@ -1,0 +1,45 @@
+@import url(https://fonts.googleapis.com/css?family=News+Cycle);
+
+@import url(https://fonts.googleapis.com/css?family=Satisfy);
+
+.main   {
+	font-family: 'News Cycle', sans-serif;
+}
+
+*	{
+	padding: 0;
+	margin: 0;
+}
+
+
+body  {
+	font-size: 20px;
+	color: #09136B;
+}
+
+
+#slogan	 {
+	font-size: 10px;
+	color: #5D6066;
+	font-family: 'Satisfy', cursive;
+}
+
+
+header {
+	text-align: center;
+	font-size: 40px;
+	background-color: #7CC6FF;
+}
+
+
+
+ul {
+	font-weight: 700;
+}
+
+
+a  {
+	text-decoration: none;
+	color: #000000;
+	padding-top: 20px;
+}
