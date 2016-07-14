@@ -15,9 +15,11 @@ body  {
 	color: #09136B;
 }
 
+@import url(https://fonts.googleapis.com/css?family=Satisfy);
+
 
 #slogan	 {
-	font-size: 10px;
+	font-size: 20px;
 	color: #5D6066;
 	font-family: 'Satisfy', cursive;
 }
