@@ -32,6 +32,9 @@ header {
 }
 
 
+img   {
+	vertical-align: middle;
+}
 
 ul {
 	font-weight: 700;
