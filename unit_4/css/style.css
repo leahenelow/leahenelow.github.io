@@ -1,49 +1,55 @@
 @import url(https://fonts.googleapis.com/css?family=Josefin+Sans:400,600);
 
-.main   {
+.main{
 	font-family: 'Josefin Sans', sans-serif;
 }
 
-*	{
+*{
 	padding: 0;
 	margin: 0;
 }
 
 
-body  {
-	font-size: 20px;
+body{
+	font-size: 16px;
 	color: #09136B;
 }
 
 @import url(https://fonts.googleapis.com/css?family=Satisfy);
 
 
-#slogan	 {
+#slogan{
 	font-size: 30px;
 	color: #5D6066;
 	font-family: 'Satisfy', cursive;
 }
 
 
-header {
+header{
 	text-align: center;
 	font-size: 40px;
 	background-color: #7CC6FF;
 }
 
 
-img  {
+img{
 	vertical-align: middle;
 }
 
-ul {
+
+#aboutus{
+	width: 480px;
+}
+
+
+ul{
 	font-weight: 700;
 	padding-left: 40px;
 	padding-bottom: 40px;
 }
 
 
-a  {
+a{
 	text-decoration: none;
 	color: #000000;
 }
