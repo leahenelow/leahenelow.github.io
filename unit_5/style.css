@@ -1,0 +1,53 @@
+@import url(https://fonts.googleapis.com/css?family=Josefin+Sans:400,600);
+@import url(https://fonts.googleapis.com/css?family=Satisfy);
+
+*{
+	padding: 0;
+	margin: 0;
+
+body{
+	font-family: 'Josefin Sans';
+	font-size: 18px;
+	color: #09136B;
+}
+
+
+header{
+	text-align: center;
+	font-size: 40px;
+	background-color: #7CC6FF;
+}
+
+
+#slogan{
+	font-size: 30px;
+	color: #5D6066;
+	font-family: 'Satisfy', cursive;
+}
+
+nav{
+	text-align: center;
+}
+
+
+img{
+	vertical-align: middle;
+}
+
+
+.blurb{
+	width: 800px;
+	margin: 0 auto;
+}
+
+
+ul{
+	font-weight: 700;
+	padding-left: 40px;
+	padding-bottom: 40px;
+}
+
+
+a{
+	text-decoration: none;
+	color: #000000;
