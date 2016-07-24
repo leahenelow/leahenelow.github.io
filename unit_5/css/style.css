@@ -36,6 +36,7 @@ header{
 .nav li{
 	display: inline;
 	list-style: none;
+	padding: .5em;
 }
 
 
