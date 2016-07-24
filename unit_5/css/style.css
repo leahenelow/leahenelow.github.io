@@ -51,16 +51,13 @@ img{
 }
 
 
-article{
+.blurb{
 	background-color: #E89C6C;
-}
-
-
-article .blurb{
 	width: 800px;
 	margin: 0 auto;
 	line-height: 1.5em;
 }
+
 
 aside{ background-color: #FFC675;
  }
@@ -80,8 +77,11 @@ padding-top: 1.5em;
 
 
 footer{
-	text-decoration: none;
 	color: #000000;
 	text-align: center;
 	background-color: #FF957E;
+}
+
+footer a{
+	text-decoration: none;
 }
