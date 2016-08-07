@@ -63,9 +63,10 @@ img{
 #left {
 	background-color: #12C6FF;
 	border: 1px black solid;
-	padding: 60px;
+	padding: 40px;
 	float: left;
 	width: 55%;
+	line-height: 1.5em;
 }
 
 .clearfix:after {
