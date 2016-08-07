@@ -8,7 +8,7 @@
 	background-color: violet;
 	border: 1px black solid;
 	padding: 20px;
-	float: left;
+	float: right;
 	width: 30%;
 }
 
@@ -16,7 +16,7 @@
 	background-color: pink;
 	border: 1px black solid;
 	padding: 50px;
-	float: right;
+	float: left;
 	width: 55%;
 }
 
