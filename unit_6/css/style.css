@@ -4,7 +4,7 @@
 	padding: 20px;
 }
 
-#left {
+#right {
 	background-color: violet;
 	border: 1px black solid;
 	padding: 20px;
@@ -12,7 +12,7 @@
 	width: 30%;
 }
 
-#right {
+#left {
 	background-color: pink;
 	border: 1px black solid;
 	padding: 50px;
