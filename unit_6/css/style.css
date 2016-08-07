@@ -1,11 +1,60 @@
+@import url(https://fonts.googleapis.com/css?family=Josefin+Sans:400,600);
+@import url(https://fonts.googleapis.com/css?family=Satisfy);
+
+*{
+	padding: 0;
+	margin: 0;
+}
+
+body{
+	font-family: 'Josefin Sans';
+	font-size: 18px;
+	color: #09136B;
+}
+
+#wrapper{
+	border: 1px black solid;
+	margin: 20px;
+}
+
+header{
+	text-align: center;
+	font-size: 40px;
+	background-color: #7CC6FF;
+}
+
+#slogan{
+	font-size: 30px;
+	color: #5D6066;
+	font-family: 'Satisfy', cursive;
+}
+
+.nav{
+	text-align: center;
+	margin: 0;
+	padding: 1em;
+}
+
+
+.nav li{
+	display: inline;
+	list-style: none;
+	padding: .5em;
+}
+
+img{
+	vertical-align: middle;
+	padding-bottom: 2em;
+}
+
 #two_column {
-	background-color: #FFB7CF;
+	background-color: #7CC6FF;
 	border: 1px black solid;
 	padding: 20px;
 }
 
 #right {
-	background-color: violet;
+	background-color: #12C6FF;
 	border: 1px black solid;
 	padding: 20px;
 	float: right;
@@ -13,7 +62,7 @@
 }
 
 #left {
-	background-color: pink;
+	background-color: #12C6FF;
 	border: 1px black solid;
 	padding: 50px;
 	float: left;
@@ -27,4 +76,15 @@
 	content: " ";
 	clear: both;
 	height: 0;
+}
+
+footer{
+	color: #000000;
+	text-align: center;
+	background-color: #cccccc;
+}
+
+a{
+	text-decoration: none;
+	color: #000000;
 }
